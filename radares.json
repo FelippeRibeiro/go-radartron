@@ -1,0 +1,638 @@
+[
+  {
+    "nome": "AV. LUÍS VIANA x PRÓXIMO AO ACESSO DA AV. ORLANDO GOMES  / SENTIDO AEROPORTO",
+    "latitude": -12.928514,
+    "longitude": -38.386351,
+    "velocidade": 80
+  },
+  {
+    "nome": "AV. BARROS REIS x PRÓXIMO À RUA JAQUEIRA DO CARNEIRO - SENTIDO RETIRO",
+    "latitude": -12.944995,
+    "longitude": -38.470797,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. ENG. OSCAR PONTES X COLÉGIO ESTADUAL HAMILTON DE JESUS LOPES / SENTIDO AV. DA FRANÇA",
+    "latitude": -12.94949,
+    "longitude": -38.501325,
+    "velocidade": 60
+  },
+  {
+    "nome": "AVENIDA DA FRANÇA X RUA DA SUÉCIA / SENTIDO AV. LAFAYETE COUTINHO",
+    "latitude": -12.966039,
+    "longitude": -38.509387,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. VASCO DA GAMA x CONJ SANTA MADALENA / SENTIDO RIO VERMELHO",
+    "latitude": -13.002265,
+    "longitude": -38.492268,
+    "velocidade": 60
+  },
+  {
+    "nome": "RUA SILVEIRA MARTINS x CONJUNTO CHÁCARA DO CABULA / SENTIDO UNEB",
+    "latitude": -12.961935,
+    "longitude": -38.471201,
+    "velocidade": 50
+  },
+  {
+    "nome": "RUA SILVEIRA MARTINS x CONJUNTO CHÁCARA DO CABULA / SENTIDO PERNAMBUÉS",
+    "latitude": -12.961595,
+    "longitude": -38.471129,
+    "velocidade": 50
+  },
+  {
+    "nome": "AV. LUIS VIANA X ESTAÇÃO DO METRÔ - IMBUÍ  /SENTIDO RODOVIÁRIA",
+    "latitude": -12.964536,
+    "longitude": -38.436499,
+    "velocidade": 80
+  },
+  {
+    "nome": "AV. LUÍS VIANA PRÓXIMO À 3ª SAÍDA DO C.A.B  /SENTIDO RODOVIÁRIA",
+    "latitude": -12.961132,
+    "longitude": -38.431578,
+    "velocidade": 80
+  },
+  {
+    "nome": "AV. SETE DE SETEMBRO X EDIFICIO GLORIA Nº 3651 / SENTIDO FAROL DA BARRA",
+    "latitude": -13.003173,
+    "longitude": -38.53265,
+    "velocidade": 30
+  },
+  {
+    "nome": "AV. OCEÂNICA X CENTRO ESPANHOL  / SENTIDO FAROL DA BARRA",
+    "latitude": -13.008379,
+    "longitude": -38.520166,
+    "velocidade": 50
+  },
+  {
+    "nome": "AV. OCEÂNICA X CENTRO ESPANHOL  / SENTIDO RIO VERMELHO",
+    "latitude": -13.008379,
+    "longitude": -38.520166,
+    "velocidade": 50
+  },
+  {
+    "nome": "AV. OCEÂNICA X RUA ALFREDO MAGALHÃES/ SENTIDO FAROL DA BARRA",
+    "latitude": -13.009808,
+    "longitude": -38.529221,
+    "velocidade": 30
+  },
+  {
+    "nome": "AV. OCEÂNICA X RUA ALFREDO MAGALHÃES/ SENTIDO ONDINA",
+    "latitude": -13.009808,
+    "longitude": -38.529221,
+    "velocidade": 30
+  },
+  {
+    "nome": "AV. SETE DE  SETEMBRO X ALMOX. HOSP. ESPANHOL / SENTIDO FAROL DA BARRA",
+    "latitude": -13.007341,
+    "longitude": -38.532778,
+    "velocidade": 30
+  },
+  {
+    "nome": "AV. OCTÁVIO MANGABEIRA X DEFRONTE AO CENTRO DE CONVENÇÕES MUNICIPAL / SENTIDO PITUBA",
+    "latitude": -12.981167,
+    "longitude": -38.431353,
+    "velocidade": 70
+  },
+  {
+    "nome": "AV. OCTÁVIO MANGABEIRA X EM FRENTE AO CENTRO DE CONVENÇÕES MUNICIPAL / SENTIDO ITAPUÃ",
+    "latitude": -12.981565,
+    "longitude": -38.431802,
+    "velocidade": 70
+  },
+  {
+    "nome": "AV. GENERAL GRAÇA LESSA X CESTA DO POVO / SENTIDO AV. MARIO LEAL FERREIRA",
+    "latitude": -12.985822,
+    "longitude": -38.497011,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. JEQUITAIA X CASA PIA E COLÉGIO DOS ÓRFÃOS DE S. JOAQUIM / SENTIDO AV. AFRÂNIO PEIXOTO",
+    "latitude": -12.949665,
+    "longitude": -38.501123,
+    "velocidade": 60
+  },
+  {
+    "nome": "RUA SILVEIRA MARTINS X COLÉGIO FRANCISCO DA C. MENEZES / SENTIDO UNEB",
+    "latitude": -12.95765,
+    "longitude": -38.45414,
+    "velocidade": 50
+  },
+  {
+    "nome": "RUA SILVEIRA MARTINS X COLÉGIO FRANCISCO DA C. MENEZES / SENTIDO SABOEIRO",
+    "latitude": -12.95742,
+    "longitude": -38.45437,
+    "velocidade": 50
+  },
+  {
+    "nome": "AV LUIS VIANA PRÓXIMO AO VIADUTO LUIS EDUARDO MAGALHÃES / SENTIDO AEROPORTO",
+    "latitude": -12.970912,
+    "longitude": -38.443472,
+    "velocidade": 80
+  },
+  {
+    "nome": "AV. LUIS VIANA PRÓXIMO AO ACESSO À ESTAÇÃO MUSSURUNGA  / SENTIDO RODOVIÁRIA",
+    "latitude": -12.920765,
+    "longitude": -38.357109,
+    "velocidade": 80
+  },
+  {
+    "nome": "AV. LUIS VIANA PRÓXIMO AO VIADUTO CANÔ VELOSO / SENTIDO AEROPORTO",
+    "latitude": -12.922297,
+    "longitude": -38.360657,
+    "velocidade": 80
+  },
+  {
+    "nome": "AV. LUIS VIANA X PARQUE DE EXPOSIÇÕES AGROPECUÁRIAS / SENTIDO AEROPORTO",
+    "latitude": -12.928658,
+    "longitude": -38.387938,
+    "velocidade": 80
+  },
+  {
+    "nome": "AV. SÃO CRISTOVÃO X COLEGIO HELENA MATHEUS / SENTIDO AV. LUIS VIANA",
+    "latitude": -12.913665,
+    "longitude": -38.351266,
+    "velocidade": 50
+  },
+  {
+    "nome": "AV. JORGE AMADO X ACESSO A RUA ALBERTO FIUZA / SENTIDO AV. LUIS VIANA",
+    "latitude": -12.968943,
+    "longitude": -38.434912,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. OCTÁVIO MANGABEIRA X DEFRONTE A RUA PADRE SILVEIRA SALES / SENTIDO ITAPUÃ",
+    "latitude": -12.960834,
+    "longitude": -38.396531,
+    "velocidade": 70
+  },
+  {
+    "nome": "AV. SÃO CRISTÓVÃO X COLÉGIO EST. HELENA MATHEUS / SENTIDO AEROPORTO",
+    "latitude": -12.913821,
+    "longitude": -38.351512,
+    "velocidade": 50
+  },
+  {
+    "nome": "AV. LUIS VIANA PRÓXIMO À SAIDA DO PARQUE TECNOLÓGICO DA BAHIA / SENTIDO RODOVIÁRIA",
+    "latitude": -12.928658,
+    "longitude": -38.387938,
+    "velocidade": 80
+  },
+  {
+    "nome": "MARGINAL DA AV. LUÍS VIANA - APÓS SAÍDA DO CONDOMÍNIO ALPHAVILLE / SENTIDO AEROPORTO",
+    "latitude": -12.93809,
+    "longitude": -38.40314,
+    "velocidade": 60
+  },
+  {
+    "nome": "MARGINAL DA AV. LUÍS VIANA PRÓXIMO AO ACESSO DA AV.ORLANDO GOMES / SENTIDO AEROPORTO",
+    "latitude": -12.928709,
+    "longitude": -38.386517,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. LUIS EDUARDO MAGALHÃES X RETORNO APÓS TÚNEL / SENTIDO AV. LUIS VIANA",
+    "latitude": -12.962865,
+    "longitude": -38.459178,
+    "velocidade": 70
+  },
+  {
+    "nome": "MARGINAL DA AV. LUÍS VIANA X APÓS SAÍDA DA 3ª AV. DO C.A.B / SENTIDO RODOVIÁRIA",
+    "latitude": -12.958445,
+    "longitude": -38.431644,
+    "velocidade": 60
+  },
+  {
+    "nome": "MARGINAL DA AV. LUÍS VIANA - APÓS SAÍDA DA RUA SILVEIRA MARTINS / SENTIDO RODOVIÁRIA",
+    "latitude": -12.96989,
+    "longitude": -38.44393,
+    "velocidade": 60
+  },
+  {
+    "nome": "MARGINAL DA LUÍS VIANA X PRÓXIMO AO PARQUE TECNOLÓGICO DA BAHIA / SENTIDO RODOVIÁRIA",
+    "latitude": -12.926359,
+    "longitude": -38.385028,
+    "velocidade": 60
+  },
+  {
+    "nome": "AVENIDA MÃE STELLA DE OXÓSSI - PRÓXIMO AO Nº 2369 / SENTIDO ORLA",
+    "latitude": -12.93967,
+    "longitude": -38.344204,
+    "velocidade": 60
+  },
+  {
+    "nome": "MARGINAL DA AV. LUIS VIANA X APÓS VIADUTO LUIS EDUARDO MAGALHÃES / SENTIDO IMBUI",
+    "latitude": -12.97169,
+    "longitude": -38.44498,
+    "velocidade": 60
+  },
+  {
+    "nome": "LARGO TERREIRO DE JESUS X RUA DAS PORTAS DO CARMO",
+    "latitude": -12.97299,
+    "longitude": -38.50981,
+    "velocidade": 0
+  },
+  {
+    "nome": "LARGO TERREIRO DE JESUS X RUA DAS LARANJEIRAS",
+    "latitude": -12.97328,
+    "longitude": -38.50955,
+    "velocidade": 0
+  },
+  {
+    "nome": "LARGO DO PELOURINHO X RUA BAIXA DOS SAPATEIROS",
+    "latitude": -12.97081,
+    "longitude": -38.50805,
+    "velocidade": 0
+  },
+  {
+    "nome": "RUA JOÃO GOMES X RUA VIEIRA LOPES / SENTIDO ONDINA",
+    "latitude": -13.01252,
+    "longitude": -38.49049,
+    "velocidade": 40
+  },
+  {
+    "nome": "AV. MANOEL DIAS DA SILVA x RUA DO BALNEÁRIO / SENTIDO RIO VERMELHO",
+    "latitude": -13.011744,
+    "longitude": -38.471268,
+    "velocidade": 60
+  },
+  {
+    "nome": "LARGO DA MARIQUITA x RUA MONTE CONSELHO / SENTIDO AMARALINA",
+    "latitude": -13.014039,
+    "longitude": -38.488528,
+    "velocidade": 40
+  },
+  {
+    "nome": "RUA DA PACIÊNCIA x TRAVESSA LYDIO DE MESQUITA / SENTIDO AMARALINA",
+    "latitude": -13.011125,
+    "longitude": -38.493544,
+    "velocidade": 40
+  },
+  {
+    "nome": "AV. PRES. COSTA E SILVA X FONTE NOVA / SENTIDO ESTAÇÃO DA LAPA",
+    "latitude": -12.980753,
+    "longitude": -38.504478,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. MANOEL DIAS DA SILVA X RUA FERNANDO DE NORONHA / SENTIDO AMARALINA",
+    "latitude": -13.010798,
+    "longitude": -38.46761,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. CARIBÉ X PROX. AO POSTO SHELL / SENTIDO LAURO DE FREITAS",
+    "latitude": -12.915871,
+    "longitude": -38.345566,
+    "velocidade": 80
+  },
+  {
+    "nome": "AV. VASCO DA GAMA X DEFRONTE A FONTE NOVA / SENTIDO AV. MARIO LEAL FERREIRA",
+    "latitude": -12.981978,
+    "longitude": -38.503728,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. LUIS EDUARDO MAGALHÃES X RETORNO ANTES DO TÚNEL / SENTIDO RETIRO",
+    "latitude": -12.962342,
+    "longitude": -38.460184,
+    "velocidade": 70
+  },
+  {
+    "nome": "RUA MARQUES DE CARAVELAS X EDIFICIO HARMONIA Nº 217 / SENTIDO ORLA",
+    "latitude": -13.005571,
+    "longitude": -38.528285,
+    "velocidade": 40
+  },
+  {
+    "nome": "AV. OCTÁVIO MANGABEIRA X PRÓX. A RUA PADRE SILVEIRA SALES / SENTIDO PITUBA",
+    "latitude": -12.960202,
+    "longitude": -38.396405,
+    "velocidade": 70
+  },
+  {
+    "nome": "AV. AFRÂNIO PEIXOTO X PROX. A RUA DOS FERROVIÁRIOS / SENTIDO CALÇADA",
+    "latitude": -12.897859,
+    "longitude": -38.477909,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. AFRÂNIO PEIXOTO X CONJUNTO NOVA PRIMAVERA / SENTIDO CALÇADA",
+    "latitude": -12.903196,
+    "longitude": -38.476867,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. VASCO DA GAMA X DEFRONTE AO CONJUNTO SANTA MADALENA / SENTIDO CENTRO",
+    "latitude": -13.002671,
+    "longitude": -38.492043,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. AMARALINA X RUA BRÁULIO NASCIMENTO / SENTIDO ITAPUÃ",
+    "latitude": -13.013564,
+    "longitude": -38.472748,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. OCTAVIO MANGABEIRA x PROX. AO CONDOMINIO SALVADOR SUITE, Nº 3801 / SENTIDO PITUBA",
+    "latitude": -12.993488,
+    "longitude": -38.440101,
+    "velocidade": 70
+  },
+  {
+    "nome": "AV. AFRÂNIO PEIXOTO X MOTEL OÁSIS / SENTIDO PARIPE",
+    "latitude": -12.93608,
+    "longitude": -38.49192,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. AFRÂNIO PEIXOTO X CONJ. NOVA PRIMAVERA / SENTIDO PARIPE",
+    "latitude": -12.903863,
+    "longitude": -38.477098,
+    "velocidade": 0
+  },
+  {
+    "nome": "AV. PRES. CASTELO BRANCO X DEFRONTE À TV. MARQUÊS DE BARBACENA / SENTIDO BONOCÔ",
+    "latitude": -12.973343,
+    "longitude": -38.503755,
+    "velocidade": 60
+  },
+  {
+    "nome": "RUA CAPITÃO MELO X ALAMEDA PROF. CARLOS OTT / SENTIDO. PRAIA DO FLAMENGO",
+    "latitude": -12.940866,
+    "longitude": -38.336055,
+    "velocidade": 50
+  },
+  {
+    "nome": "RUA MARQUÊS DE MONTE SANTO X EDIFÍCIO PEDRA REDONDA Nº 157 / SENTIDO AMARALINA",
+    "latitude": -13.013148,
+    "longitude": -38.484176,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. BARROS REIS x DEFRONTE A RUA MARQUES DE MARICA / SENTIDO RETIRO",
+    "latitude": -12.963276,
+    "longitude": -38.478887,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. OCTAVIO MANGABEIRA x DEFRONTE AO CONDOMINIO SALVADOR SUITE, Nº 3801 / SENTIDO ITAPUA",
+    "latitude": -12.993753,
+    "longitude": -38.440337,
+    "velocidade": 70
+  },
+  {
+    "nome": "AV. ORLANDO GOMES X ESCOLA DJALMA PESSOA / SENTIDO ORLA",
+    "latitude": -12.940105,
+    "longitude": -38.38645,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. HEITOR DIAS x DEFRONTE A RUA ARTHUR D'ALMEIDA COUTO / SENTIDO AQUIDABA",
+    "latitude": -12.968053,
+    "longitude": -38.487094,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. GAL COSTA X SUPERINTENDÊNCIA DA PRF / SENTIDO AV. PROF. PINTO DE AGUIAR",
+    "latitude": -12.922332,
+    "longitude": -38.460013,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. GAL COSTA X SUPERINTENDÊNCIA DA PRF / SENTIDO BR 324",
+    "latitude": -12.923157,
+    "longitude": -38.461548,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. PROF. MAGALHÃES NETO X Nº 1520 ACBEU / SENTIDO AV. TANCREDO NEVES",
+    "latitude": -12.987496,
+    "longitude": -38.449926,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. MÃE STELLA DE OXOSSI / SENTIDO ORLA",
+    "latitude": -12.934946,
+    "longitude": -38.346622,
+    "velocidade": 0
+  },
+  {
+    "nome": "AV. PROFESSOR MAGALHAES NETO x HOSPITAL DA BAHIA Nº 1541 / SENTIDO ORLA",
+    "latitude": -12.987044,
+    "longitude": -38.45043,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. 29 DE MARÇO X PRÓXIMO AO ACESSO DO JD. NOVA ESPERANÇA / SENTIDO BR 324",
+    "latitude": -12.915116,
+    "longitude": -38.400556,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. MARIO LEAL FERREIRA X POSTO MATARIPE / SENTIDO BR 324",
+    "latitude": -12.98301,
+    "longitude": -38.48233,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. VASCO DA GAMA x DEFRONTE A ENTRADA DO HGE / SENTIDO LUCAIA",
+    "latitude": -12.932318,
+    "longitude": -38.357717,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. MARIO LEAL FERREIRA x PROXIMO A RUA LUIZ AANSELMO / SENTIDO CENTRO",
+    "latitude": -12.978784,
+    "longitude": -38.480512,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. ANITA GARIBALDI x COLEGIO ESTADUAL EVARISTO DA VEIGA / SENTIDO RIO VERMELHO",
+    "latitude": -13.005732,
+    "longitude": -38.502385,
+    "velocidade": 70
+  },
+  {
+    "nome": "AV. ANITA GARIBALDI x HOSPITAL CARDIO PULMONAR / SENTIDO CENTRO",
+    "latitude": -13.006575,
+    "longitude": -38.500161,
+    "velocidade": 70
+  },
+  {
+    "nome": "AV. LUIS VIANA x PROXIMO AO ACESSO DA AV. ORLANDO GOMES / SENTIDO AEROPORTO",
+    "latitude": -12.928514,
+    "longitude": -38.386351,
+    "velocidade": 80
+  },
+  {
+    "nome": "AV. AFRANIO PEIXOTO X MOTEL OASIS / SENTIDO CALÇADA",
+    "latitude": -12.9354,
+    "longitude": -38.49157,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. CARIBÉ X DEFRONTE AO POSTO SHELL / SENTIDO AV. LUIS VIANA",
+    "latitude": -12.916131,
+    "longitude": -38.345906,
+    "velocidade": 80
+  },
+  {
+    "nome": "AV. BARROS REIS X  PROX À RUA MARQUÊS DE MARICÁ / SENTIDO IGUATEMI",
+    "latitude": -12.962559,
+    "longitude": -38.478513,
+    "velocidade": 60
+  },
+  {
+    "nome": "ALAMEDA DILSON JATAHY FONSECA X ALAMEDA PRAIA DE JACARECICA / SENTIDO AV. CARYBÉ",
+    "latitude": -12.931487,
+    "longitude": -38.345618,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. LUIS VIANA X BAIRRO DA PAZ / SENTIDO AEROPORTO",
+    "latitude": -12.924968,
+    "longitude": -38.375733,
+    "velocidade": 80
+  },
+  {
+    "nome": "AV. 29 DE MARÇO X PRÓXIMO AO ACESSO DO JD. NOVA ESPERANÇA / SENTIDO AV. LUIS VIANA",
+    "latitude": -12.916064,
+    "longitude": -38.401268,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. 29 DE MARCO x DEFRONTE A SAIDA DO ALPHAVILLE SALVADOR 2 / SENTIDO AV LUIS VIANA",
+    "latitude": -12.920774,
+    "longitude": -38.38922,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. ANITA GARIBALDI x DEFRONTE AO HOSPITAL CARDIO PULMONA / SENTIDO RIO VERMELHO",
+    "latitude": -13.006616,
+    "longitude": -38.500654,
+    "velocidade": 70
+  },
+  {
+    "nome": "AV. AFRÂNIO PEIXOTO DEFRONTE À RUA DOS FERROVIÁRIOS / SENTIDO PARIPE",
+    "latitude": -12.898153,
+    "longitude": -38.477212,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. LUIS VIANA X DEFRONTE AO BAIRRO DA PAZ / SENTIDO RODOVIÁRIA",
+    "latitude": -12.924088,
+    "longitude": -38.375084,
+    "velocidade": 80
+  },
+  {
+    "nome": "AV. GAL COSTA x PRÓXIMO À RUA MANOEL GARRINCHA (CAMPO DE FUTEBOL) - SENTIDO AV. PROF. PINTO DE AGUIAR",
+    "latitude": -12.933794,
+    "longitude": -38.433986,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. VASCO DA GAMA X DEFRONTE A ENTRADA DO HGE / SENTIDO DIQUE DO TORORO",
+    "latitude": -12.997325,
+    "longitude": -38.492734,
+    "velocidade": 60
+  },
+  {
+    "nome": "RUA CONEGO PEREIRA x EBAL - DOIS LEOES / SENTIDO AQUIDABA",
+    "latitude": -12.968621,
+    "longitude": -38.495473,
+    "velocidade": 50
+  },
+  {
+    "nome": "AV. 29 de MARÇO - PROXIMO AO CONDOMINIO ALPHAVILLE II / SENTIDO BR 324",
+    "latitude": -12.9204885,
+    "longitude": -38.3885936,
+    "velocidade": 60
+  },
+  {
+    "nome": "RUA CAPITAO MELO x ALAMEDA PROF. CARLOS OTT / SENTIDO ITAPUA",
+    "latitude": -12.940391,
+    "longitude": -38.335801,
+    "velocidade": 0
+  },
+  {
+    "nome": "AV. GAL COSTA x PRÓXIMO À RUA MANOEL GARRINCHA (CAMPO DE FUTEBOL) - SENTIDO BR 324",
+    "latitude": -12.933815,
+    "longitude": -38.433318,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. ORLANDO GOMES DEFRONTE A ESCOLA DJALMA PESSOA / SENTIDO AV. LUIS VIANA",
+    "latitude": -12.940706,
+    "longitude": -38.386453,
+    "velocidade": 60
+  },
+  {
+    "nome": "RUA CONEGO PEREIRA x LADEIRA DE SANTA RITA (SINDILIMP) / SENTIDO CABULA",
+    "latitude": -12.969589,
+    "longitude": -38.496721,
+    "velocidade": 50
+  },
+  {
+    "nome": "AV. ANITA GARIBALDI x COLEGIO EVARISTO DA VEIGA / SENTIDO CENTRO",
+    "latitude": -13.005385,
+    "longitude": -38.502329,
+    "velocidade": 70
+  },
+  {
+    "nome": "AV. PROF. PINTO DE AGUIAR X UCSAL / SENTIDO ORLA",
+    "latitude": -12.945527,
+    "longitude": -38.414985,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. PROF. PINTO DE AGUIAR X UCSAL / SENTIDO AV. LUIS VIANA",
+    "latitude": -12.945599,
+    "longitude": -38.41436,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. LUIS VIANA X PRÓXIMO A ESTAÇÃO DE METRO IMBUI - SENTIDO AEROPORTO",
+    "latitude": -12.964464,
+    "longitude": -38.435592,
+    "velocidade": 80
+  },
+  {
+    "nome": "AV. PAULO VI x RUA DAS CAMELIAS / SENTIDO ORLA",
+    "latitude": -12.991764,
+    "longitude": -38.45468,
+    "velocidade": 40
+  },
+  {
+    "nome": "AV. DORIVAL CAYMMI x PROX A POLICIA CIVIL - DEPOM , DEIC, DHPP / SENTIDO ORLA",
+    "latitude": -12.929157,
+    "longitude": -38.357045,
+    "velocidade": 50
+  },
+  {
+    "nome": "AV. DORIVAL CAYMMI x PROX. A POLICIA CIVIL - DEPOM , DEIC, DHPP / SENTIDO AV. CARYBE",
+    "latitude": -12.932221,
+    "longitude": -38.35772,
+    "velocidade": 50
+  },
+  {
+    "nome": "ALAMEDA DILSON JATAHY FONSECA, PROX AO ACESSO A AV. CARYBE / SENTIDO AEROPORTO",
+    "latitude": -12.923144,
+    "longitude": -38.349311,
+    "velocidade": 50
+  },
+  {
+    "nome": "AV. AFRANIO PEIXOTO X HOSPITAL ALAYDE COSTA / SENTIDO PARIPE",
+    "latitude": -12.88226,
+    "longitude": -38.482011,
+    "velocidade": 60
+  },
+  {
+    "nome": "AV. MARIO LEAL FERREIRA X PROX. BONOCO CENTER / SENTIDO BR 324",
+    "latitude": -12.980618,
+    "longitude": -38.496458,
+    "velocidade": 60
+  }
+]
